@@ -1,0 +1,3 @@
+GOLD HEIST
+
+The town is running low on funds! We know of a neighboring town's secret stash of gold, and we tried to organize a heist to go steal it all. When we got there, we realized that this town is starting to modernize too, and all their gold is virtual and encrypted! We've managed to recover the encryption function, and we gained access to the encrypted gold. Can you get us the funds so we can be rich again?

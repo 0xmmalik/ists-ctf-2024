@@ -1,2 +1,0 @@
-GOLD MINE
-
